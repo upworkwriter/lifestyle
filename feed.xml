@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://lifestyle.netlify.app/privacy-policy.html">
+<link rel="canonical" href="https://lifestyletips.netlify.app/privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo6.jpg"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,55 +18,56 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.d7566a0bc0db7fe3f83c57d0010a4a140 p,.d7566a0bc0db7fe3f83c57d0010a4a140 a,.d7566a0bc0db7fe3f83c57d0010a4a140 span,.d7566a0bc0db7fe3f83c57d0010a4a140 label{
-font-size:16px!important;
-}
 footer{
-background:#010101;
+background:#0e0e0e;
 color:#ffffff;
 }
-.ce8a6da2c5938ccb5d916fdb1d6f16d3f a{
+.bc640f80c3bbf8b9e58e1683108b832a4 p,.bc640f80c3bbf8b9e58e1683108b832a4 a,.bc640f80c3bbf8b9e58e1683108b832a4 span,.bc640f80c3bbf8b9e58e1683108b832a4 label{
+font-size:16px!important;
+}
+.btn-md{
+padding: 15.3px 30px;
+border-radius: 0;
+}
+.y65106d01353b074af00b331836b4339a p,.y65106d01353b074af00b331836b4339a span,.y65106d01353b074af00b331836b4339a label{
+font-size:16px!important;
+}
+.y65106d01353b074af00b331836b4339a a{
 font-size:16px;
 }
-.d7566a0bc0db7fe3f83c57d0010a4a140 a,.ce8a6da2c5938ccb5d916fdb1d6f16d3f a{
-color:#070707!important;
-text-decoration: underline !important;
+footer a{
+color:#ffffff;
+text-decoration: underline;
 }
-a{
-text-decoration: none!important;
+.y5a51f03c23b3dfcd54b3884950410ed2:hover{
+box-shadow: 0 49.7px 49.9px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
-footer *{
-font-size:16px !important;
-}
-.nav-link{
-color: #14646e!important;
-
+a:hover{
+color:;background:!important;
 }
 html{
 scroll-behavior: smooth;
 }
-*{
-font-family: 'Kumbh Sans', sans-serif;
+.nav-link{
+color: #14646e;
+
 }
-.yaccfba7d65fbf5509b3d3eb232e52564:hover{
-box-shadow: 0 50.3px 50px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
+footer *{
+font-size:16px !important;
 }
-.nav-item{
-padding-left:8.4px;
-padding-right:7.9px;
-padding-top:5.2px;
-padding-bottom:4.8px;
+.bc640f80c3bbf8b9e58e1683108b832a4 a,.y65106d01353b074af00b331836b4339a a{
+color:#090909!important;
+text-decoration: underline !important;
 }
 .navbar a{
-font-size: 18.5px!important;
+font-size: 18.2px!important;
 font-weight: bold;
 }
-.btn-md{
-padding: 15.1px 30.2px;
-border-radius: 0;
+a{
+text-decoration: none!important;
 }
-.wa97f10d1d3df208afb9ade3af51bf9ec{
+.xce49a67b16c79f88c69f9e8fc1c49b2e{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
@@ -74,73 +75,75 @@ color:#000000!important;
 ul{
 list-style: circle;
 }
-.ce8a6da2c5938ccb5d916fdb1d6f16d3f p,.ce8a6da2c5938ccb5d916fdb1d6f16d3f span,.ce8a6da2c5938ccb5d916fdb1d6f16d3f label{
-font-size:16px!important;
+.nav-item{
+padding-left:7.5px;
+padding-right:8.3px;
+padding-top:4.6px;
+padding-bottom:5.4px;
 }
-footer a{
-color:#ffffff;
-text-decoration: underline;
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="https://lifestyle.netlify.app/index.html"  ><img alt="img/logo6.jpg" src="img/logo6.jpg"  width="150px" ></a>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="https://lifestyletips.netlify.app/index.html"  ><img alt="img/logo6.jpg" src="img/logo6.jpg"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="align-items-center ml-auto d-flex navbar-nav"><li class="nav-item"><a class="vd3dfab1869bc4f8333d0753922591408 nav-link" href="https://lifestyle.netlify.app/news.html"  >News</a></li>
+<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="d-flex align-items-center navbar-nav ml-auto"><li class="nav-item"><a class="nav-link x63e74c84619dff38164e16fefe4f83ed" href="https://lifestyletips.netlify.app/news.html"  >News</a></li>
   
-<li class=" nav-item dropdown">
-<a class="dropdown-toggle nav-link vd3dfab1869bc4f8333d0753922591408" href="https://lifestyle.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Serene Spaces Health Online journal</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://lifestyle.netlify.app/index.html"  >Serene Spaces Health Online journal</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/nutrition.html"  >Nutrition</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/exercise.html"  >Exercise</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/mental-wellbeing.html"  >Mental wellbeing</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/disease-prevention.html"  >Disease prevention</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/hygiene.html"  >Hygiene</a>
-  
-<li class=" nav-item dropdown">
-<a class="nav-link vd3dfab1869bc4f8333d0753922591408 dropdown-toggle" href="https://lifestyle.netlify.app/family.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Family</a>
+<li class=" dropdown nav-item">
+<a class="x63e74c84619dff38164e16fefe4f83ed nav-link dropdown-toggle" href="https://lifestyletips.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Serene Spaces Health Online journal</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://lifestyle.netlify.app/family.html"  >Family</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/relationships.html"  >Relationships</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/parenting.html"  >Parenting</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/sibling-dynamics.html"  >Sibling dynamics</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/family-traditions.html"  >Family traditions</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/household-management.html"  >Household management</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/index.html"  >Serene Spaces Health Online journal</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/nutrition.html"  >Nutrition</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/exercise.html"  >Exercise</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/mental-wellbeing.html"  >Mental wellbeing</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/disease-prevention.html"  >Disease prevention</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/hygiene.html"  >Hygiene</a>
   
-<li class="nav-item dropdown ">
-<a class="dropdown-toggle nav-link vd3dfab1869bc4f8333d0753922591408" href="https://lifestyle.netlify.app/environment.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Environment</a>
+<li class="dropdown nav-item ">
+<a class="dropdown-toggle nav-link x63e74c84619dff38164e16fefe4f83ed" href="https://lifestyletips.netlify.app/family.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Family</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://lifestyle.netlify.app/environment.html"  >Environment</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/sustainability.html"  >Sustainability</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/climate-change.html"  >Climate change</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/ecosystems.html"  >Ecosystems</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/pollution.html"  >Pollution</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/conservation.html"  >Conservation</a>
-  
-<li class=" nav-item dropdown">
-<a class="dropdown-toggle vd3dfab1869bc4f8333d0753922591408 nav-link" href="https://lifestyle.netlify.app/housing.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Housing</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://lifestyle.netlify.app/housing.html"  >Housing</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/home-ownership.html"  >Home ownership</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/renting.html"  >Renting</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/interior-design.html"  >Interior design</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/maintenance.html"  >Maintenance</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/neighborhoods.html"  >Neighborhoods</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/family.html"  >Family</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/relationships.html"  >Relationships</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/parenting.html"  >Parenting</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/sibling-dynamics.html"  >Sibling dynamics</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/family-traditions.html"  >Family traditions</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/household-management.html"  >Household management</a>
   
 <li class="dropdown  nav-item">
-<a class="nav-link vd3dfab1869bc4f8333d0753922591408 dropdown-toggle" href="https://lifestyle.netlify.app/trending.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Trending</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://lifestyle.netlify.app/trending.html"  >Trending</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/work-life-balance.html"  >Work-life balance</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/time-management.html"  >Time management</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/stress-management.html"  >Stress management</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/career-development.html"  >Career development</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/leisure-activities.html"  >Leisure activities</a>
-<a class="dropdown-item" href="https://lifestyle.netlify.app/remote-work-opportunities.html"  >Remote work opportunities</a>
-<li class="nav-item"><a class="nav-link vd3dfab1869bc4f8333d0753922591408" rel=nofollow href="https://lifestyle.netlify.app/about-us.html">About Us</a>
+<a class="x63e74c84619dff38164e16fefe4f83ed dropdown-toggle nav-link" href="https://lifestyletips.netlify.app/environment.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Environment</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/environment.html"  >Environment</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/sustainability.html"  >Sustainability</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/climate-change.html"  >Climate change</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/ecosystems.html"  >Ecosystems</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/pollution.html"  >Pollution</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/conservation.html"  >Conservation</a>
+  
+<li class="nav-item  dropdown">
+<a class="nav-link dropdown-toggle x63e74c84619dff38164e16fefe4f83ed" href="https://lifestyletips.netlify.app/housing.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Housing</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/housing.html"  >Housing</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/home-ownership.html"  >Home ownership</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/renting.html"  >Renting</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/interior-design.html"  >Interior design</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/maintenance.html"  >Maintenance</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/neighborhoods.html"  >Neighborhoods</a>
+  
+<li class="nav-item dropdown ">
+<a class="dropdown-toggle x63e74c84619dff38164e16fefe4f83ed nav-link" href="https://lifestyletips.netlify.app/trending.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Trending</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/trending.html"  >Trending</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/work-life-balance.html"  >Work-life balance</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/time-management.html"  >Time management</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/stress-management.html"  >Stress management</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/career-development.html"  >Career development</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/leisure-activities.html"  >Leisure activities</a>
+<a class="dropdown-item" href="https://lifestyletips.netlify.app/remote-work-opportunities.html"  >Remote work opportunities</a>
+<li class="nav-item"><a class="nav-link x63e74c84619dff38164e16fefe4f83ed" rel=nofollow href="https://lifestyletips.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -198,24 +201,24 @@ text-decoration: underline;
 <p>
 This website is owned and published by:
 Serene Spaces</br>
-417-950-1684</br>
-2937  Maple Street</br>
-Cincinnati, OH, 45202</br>
-United States</br>
+447-481-3871</br>
+6772  Cedar Avenue</br>
+Houston, TX, 77008</br>
+USA</br>
 </br>
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="397358545c4a775e4c405c576a54584b4d7954585055175a5654">[email&#160;protected]</a></br>
+MatthewWalkerEdge1@hotmail.com</br>
 </p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
-<div class="row"><div class="col-lg-3"><p><a class="vd3dfab1869bc4f8333d0753922591408" href="https://lifestyle.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="vd3dfab1869bc4f8333d0753922591408" href="https://lifestyle.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="vd3dfab1869bc4f8333d0753922591408" href="https://lifestyle.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<div class="py-4 container pt-5" >
+<div class="row"><div class="col-lg-3"><p><a class="x63e74c84619dff38164e16fefe4f83ed" href="https://lifestyletips.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="x63e74c84619dff38164e16fefe4f83ed" href="https://lifestyletips.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="x63e74c84619dff38164e16fefe4f83ed" href="https://lifestyletips.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
 </footer> 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
